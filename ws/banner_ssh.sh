@@ -5,7 +5,8 @@ cat > /etc/issue.net << END
 <html>
 
 <body>
-  <font color='#20CDCC'><b>        SERVER MANAGED        </b></font><br>
+<p style="text-align:center">
+<font color='#20CDCC'><b>        SERVER MANAGED        </b></font><br>
 <font color='#10C7E5'><b>         BY          </b></font><br>
 <font color='#00C1FF'><b>   AJAY SAMS  </b></font><br>
 <font color="#E51369"><b>    WhatsApp Only   </b></font><br>
