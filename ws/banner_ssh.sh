@@ -5,9 +5,14 @@ cat > /etc/issue.net << END
 <html>
 
 <body>
-  <p class="line" style="color: red; font-size: 5; text-align: center;">🔥 I am Darkanon 🔥</p>
-  <p class="line" style="color: #00ff00; font-size: 5; text-align: center;">Contact me <a href="https://t.me/darkanonq"
-      style="color: #00ff00; text-decoration: none;">https://t.me/darkanonq</a> 🤖✨</p>
+  <font color='#20CDCC'><b>        SERVER MANAGED        </b></font><br>
+<font color='#10C7E5'><b>         BY          </b></font><br>
+<font color='#00C1FF'><b>   AJAY SAMS  </b></font><br>
+<font color="#E51369"><b>    WhatsApp Only   </b></font><br>
+<font color='red'><b>  0778 216971
+ </b></font><br>
+<font color="#556B2F"><b> Server Auto Reboots at 0100HRS KE-TIME
+</br></font><br>
 </body>
 
 </html>
